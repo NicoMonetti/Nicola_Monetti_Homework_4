@@ -38,6 +38,7 @@ It's possible to select between two different paths:
 -  "goals", to follow a set of points in the world map.
 
 
+
 N.B. To save the map after the robot has explored the map successfully, use the following command in the ROS2 workspace on a different terminal:
 
 	ros2 run nav2_map_server map_saver_cli -f map_name
