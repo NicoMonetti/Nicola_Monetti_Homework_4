@@ -65,3 +65,4 @@ To launch RVIZ2 with the desired configuration use the following commands:
 - else to run empty RVIZ2 run:
 
 	ros2 launch rl_fra2mo_description display_fra2mo.launch.py      
+
