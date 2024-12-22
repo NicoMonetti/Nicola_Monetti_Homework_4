@@ -54,18 +54,14 @@ and:
 
 To launch RVIZ2 with the desired configuration use the following commands:
 
-- To use slam_view.rviz configuration file:
-
+-To use slam_view.rviz configuration file:
 
 	ros2 launch rl_fra2mo_description display_fra2mo.launch.py use_slam_view:=true
 
-- To use explore.rviz configuration file:
+-To use explore.rviz configuration file:
   
-
 	ros2 launch rl_fra2mo_description display_fra2mo.launch.py use_explore:=true
 
-- else to run empty RVIZ2 run:
-
+-else to run empty RVIZ2 run:
 
 	ros2 launch rl_fra2mo_description display_fra2mo.launch.py      
-
