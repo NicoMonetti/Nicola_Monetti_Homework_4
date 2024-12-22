@@ -47,6 +47,7 @@ To make the robot look for and detect the aruco marker, use the following comman
 
 	ros2 launch rl_fra2mo_description fra2mo_aruco.launch.py
 and:
+	
 	ros2 run rl_fra2mo_description aruco_finder.py
 
 --------------------------------
